@@ -7,7 +7,7 @@
 - 📫 How to reach me **harivinayak01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/geepalem-hari-vinayak-31a920257">**LinkedIn**</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
